@@ -2,3 +2,6 @@
 
 From: http://embedded-lab.com/blog/wifi-enabled-scrolling-led-matrix-display/
 
+Tweaked to show rotated text on Matrix
+
+
