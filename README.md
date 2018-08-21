@@ -4,7 +4,7 @@ webserver from: https://randomnerdtutorials.com/esp8266-web-server-with-arduino-
 
 Tweaked with new botton<br>
 
-<img src="https://github.com/larsgimse/NodeMCU/blob/master/2xLED_NodeMCU.jpg hight=300"><br>
+<img src="https://github.com/larsgimse/NodeMCU/blob/master/2xLED_NodeMCU.jpg height="300"><br>
 
 
 <img src="https://github.com/larsgimse/NodeMCU/blob/master/webserver1.png">
