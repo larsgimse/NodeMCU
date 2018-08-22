@@ -1,4 +1,4 @@
-# 8x32 matrix
+# 8x32 matrix with NodeMCU
 
 From: http://embedded-lab.com/blog/wifi-enabled-scrolling-led-matrix-display/
 
