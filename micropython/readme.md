@@ -1,7 +1,7 @@
 # NodeMCU with MicroPython
 
 <img src="http://www.electronicwings.com/public/images/user_images/images/NodeMCU/NodeMCU%20Basics%20using%20Arduino%20IDE/NodeMCU%20GPIO/NodeMCU%20GPIOs.png" width="300"><br>
-
+<img src="https://github.com/larsgimse/NodeMCU/blob/master/micropython/IMG_4989.JPG" width="350"><br>
 
 Inspiration and learning sites:
 * http://docs.micropython.org/en/latest/
