@@ -8,6 +8,7 @@ Inspiration and learning sites:
 * http://micropython.org/webrepl/
 * WebPEPL on same network: https://learn.adafruit.com/micropython-basics-esp8266-webrepl/access-webrepl
 * https://www.instructables.com/id/MicroPython-Basics-Using-NodeMCU-ESP8266/
+* https://github.com/lvidarte/esp8266/wiki
 * https://learn.adafruit.com/micropython-basics-how-to-load-micropython-on-a-board/overview
 * https://learn.adafruit.com/micropython-basics-esp8266-webrepl/access-webrepl
 * https://techtutorialsx.com/2017/06/04/esp32-esp8266-micropython-uploading-files-to-the-file-system/
