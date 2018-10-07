@@ -1,10 +1,11 @@
-# NodeMCU with MicroPython
+# NodeMCU with MicroPython and WebREPL
 
 <img src="http://www.electronicwings.com/public/images/user_images/images/NodeMCU/NodeMCU%20Basics%20using%20Arduino%20IDE/NodeMCU%20GPIO/NodeMCU%20GPIOs.png" width="300"><br>
 <img src="https://github.com/larsgimse/NodeMCU/blob/master/micropython/IMG_4989.JPG" width="350"><br>
 
 Inspiration and learning sites:
 * http://docs.micropython.org/en/latest/
+* http://micropython.org/webrepl/
 * https://www.instructables.com/id/MicroPython-Basics-Using-NodeMCU-ESP8266/
 * https://learn.adafruit.com/micropython-basics-how-to-load-micropython-on-a-board/overview
 * https://learn.adafruit.com/micropython-basics-esp8266-webrepl/access-webrepl
