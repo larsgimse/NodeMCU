@@ -4,6 +4,7 @@
 
 
 Inspiration and learning sites:
+* http://docs.micropython.org/en/latest/
 * https://www.instructables.com/id/MicroPython-Basics-Using-NodeMCU-ESP8266/
 * https://learn.adafruit.com/micropython-basics-how-to-load-micropython-on-a-board/overview
 * https://learn.adafruit.com/micropython-basics-esp8266-webrepl/access-webrepl
