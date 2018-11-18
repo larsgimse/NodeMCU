@@ -18,8 +18,8 @@ GPIO0-D3        -> LOAD
 #include <WiFiClientSecure.h>
 
 //------- Replace the following! ------
-char ssid[] = "YODA";       // your network SSID (name)
-char password[] = "dollytimmy123";  // your network key
+char ssid[] = "****";       // your network SSID (name)
+char password[] = "****";  // your network key
 
 WiFiClientSecure secureClient;
 WiFiClient client;
