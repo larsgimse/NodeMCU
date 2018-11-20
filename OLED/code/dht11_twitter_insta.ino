@@ -104,8 +104,8 @@ void loop() {
 
   float h = dht.readHumidity();
   float t = dht.readTemperature();
-  temp = ("Temp: " + String(t) +  "C");
-  humi = ("Humidity: " + String(h) + "%");
+  temp = ("Temp: " + String(t, 1) +  "C"); // 1 = numbers of desimals (1)
+  humi = ("Humidity: " + String(h, 1) + "%");
 
  if (millis() > api_due_time)  {
     delay(200);
