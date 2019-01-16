@@ -1,3 +1,3 @@
 #socialtracker
 
-<img src="https://media.giphy.com/media/2wScfWhtSw4okYtF0U/giphy.gif"><br>
+<img src="https://giphy.com/gifs/2wScfWhtSw4okYtF0U/html5"><br>
