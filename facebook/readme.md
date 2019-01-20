@@ -1,4 +1,4 @@
-# facebbok tracker on NodeMCU
+# Facebook tracker on NodeMCU
 Read following to start:
 <br>
 https://getpocket.com/a/read/2453801256<br>
