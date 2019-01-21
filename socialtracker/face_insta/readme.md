@@ -1,6 +1,5 @@
 # Socialtracker - Facebook and Instagram
-with NodeMCU<br>
-My code - look at code.ino<br>
+with NodeMCU -- my code -> look at code.ino<br>
 <br>
 Tweeked together from:
 * https://github.com/alvarowolfx/facebook-followers-counter-esp8266
