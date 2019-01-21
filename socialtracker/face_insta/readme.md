@@ -1,2 +1,8 @@
 # Socialtracker - Facebook and Instagram
 with NodeMCU
+<br>
+Tweeked from:
+* https://github.com/alvarowolfx/facebook-followers-counter-esp8266
+* https://www.instructables.com/id/Social-Stats-Tracker-Display-With-ESP8266/
+* https://www.brainy-bits.com/scroll-text-using-the-max7219-led-dot-matrix/
+* 
