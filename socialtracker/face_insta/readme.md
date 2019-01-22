@@ -8,5 +8,7 @@ Tweeked together from:
 * https://www.brainy-bits.com/scroll-text-using-the-max7219-led-dot-matrix/
 * http://embedded-lab.com/blog/wifi-enabled-scrolling-led-matrix-display/
 <br>
-<img src="https://github.com/larsgimse/NodeMCU/blob/master/socialtracker/face_insta/IMG_0156.jpeg" height="300"><br>
-
+<img src="https://github.com/larsgimse/NodeMCU/blob/master/socialtracker/face_insta/IMG_0156.jpeg" height="300">
+<img src="https://github.com/larsgimse/NodeMCU/blob/master/socialtracker/face_insta/IMG_0150.jpeg" height="300"><br>
+<br>
+<img src="https://github.com/larsgimse/NodeMCU/blob/master/socialtracker/face_insta/socialtracker_bb.png" height="400"><br>
