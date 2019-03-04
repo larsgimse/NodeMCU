@@ -1,7 +1,7 @@
 # Facebook tracker on NodeMCU
 Read following to start:
 <br>
-https://getpocket.com/a/read/2453801256<br>
+https://www.hackster.io/helge-johnsen/facebook-fan-count-faf13e?f=1#_=_<br>
 <br>
 Wanna test the access for your APP?<br>
 Head over to https://developers.facebook.com/tools/explorer/<br>
